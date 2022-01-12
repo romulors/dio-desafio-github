@@ -7,3 +7,5 @@ Repositório criado para o Desafio de Projeto.
 [Como escrever melhores mensagens para o Commit no Git](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
 
 [Baixar o Git](https://git-scm.com/)
+
+[Lorem Ipsum: Gerador de textos](https://lipsum.com/feed/html)
